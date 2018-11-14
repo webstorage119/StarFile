@@ -7,6 +7,7 @@ StarFile is a windows shell extension which creates a virtual folder on My Compu
 - [ ] SFTP session confiure dialog
 - [ ] handle SFTP session timeout
 - [ ] error function when SSH error occurs
+- [ ] file lazy downloading
 - [ ] implement ShellFolderViewCB interface
 - [ ] implement ICategoryProvider interface
 - [ ] implement IExplorerCommandProvider interface
@@ -18,4 +19,5 @@ StarFile is a windows shell extension which creates a virtual folder on My Compu
 - [ ] folder infotip support
 - [ ] implement Icon Overlay
 - [ ] add Junction Points and hide from desktop
-- [ ] add tileInfo top-level
+- [ ] add tileInfo in top-level
+- [ ] file synchronization
