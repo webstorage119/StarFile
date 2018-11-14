@@ -4,6 +4,7 @@ StarFile is a windows shell extension which creates a virtual folder on My Compu
 
 # TODO
 
+- [X] Folder first order
 - [ ] SFTP session confiure dialog
 - [ ] handle SFTP session timeout
 - [ ] error function when SSH error occurs
